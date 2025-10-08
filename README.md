@@ -5,7 +5,7 @@ The project focuses on evaluating whether automatic code generation metrics (e.g
 
 ---
 
-## 📌 Overview
+## Overview
 
 ### **Stage 1: Bug-Fix Task Analysis (Python)**  
 Using the DevGPT dataset:  
